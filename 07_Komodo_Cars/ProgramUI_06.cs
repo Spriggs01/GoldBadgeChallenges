@@ -196,20 +196,33 @@ namespace _07_Komodo_Cars
 
             string asString = Console.ReadLine();
             int removeCar = int.Parse(asString);
+            
+            List<Car_Comparisons> selectedList = gas;
+
 
             switch (removeCar)
             {
                 case 1:
-                    car.TypeOfFuel = FuelType.Gas;
-
+                    SeeAll(gas, "gas");
+                    selectedList = gas;
                     break;
                 case 2:
-                    car.TypeOfFuel = FuelType.Electric;
+                    SeeAll(electric, "electric");
+                    selectedList = electric;
                     break;
                 case 3:
-                    car.TypeOfFuel = FuelType.Hybrid;
+                    SeeAll(hybrid, "hybrid");
+                    selectedList = hybrid;
                     break;
             }
+
+            Console.WriteLine("Which car do you want to remove?");
+            string carToRemove = Console.ReadLine();
+            int removeCarAt = int.Parse(carToRemove) - 1;
+
+            selectedList.RemoveAt(removeCar);
+
+
         }
 
     }
