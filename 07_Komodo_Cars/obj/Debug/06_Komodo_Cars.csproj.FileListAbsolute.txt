@@ -1,2 +1,7 @@
 C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\obj\Debug\06_Komodo_Cars.csprojAssemblyReference.cache
 C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\obj\Debug\06_Komodo_Cars.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\bin\Debug\07_Komodo_Cars.exe.config
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\bin\Debug\07_Komodo_Cars.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\bin\Debug\07_Komodo_Cars.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\obj\Debug\07_Komodo_Cars.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\obj\Debug\07_Komodo_Cars.pdb
