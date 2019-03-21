@@ -1,0 +1,17 @@
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\obj\Debug\08_Smart_Insurance_Tests.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\obj\Debug\08_Smart_Insurance_Tests.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\08_Smart_Insurance_Tests.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\08_Smart_Insurance_Tests.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\08_Smart_Insurance.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\08_Smart_Insurance.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\08_Smart_Insurance.exe.config
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\obj\Debug\08_Smart_Insurance_Tests.csproj.CopyComplete
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\obj\Debug\08_Smart_Insurance_Tests.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\08_Smart_Insurance_Tests\obj\Debug\08_Smart_Insurance_Tests.pdb

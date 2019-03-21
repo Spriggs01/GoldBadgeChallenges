@@ -1,0 +1,17 @@
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\obj\Debug\03_Komodo_Outings_Tests.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\obj\Debug\03_Komodo_Outings_Tests.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\03_Komodo_claims_Tests.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\03_Komodo_claims_Tests.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Komodo_Outings.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Komodo_Outings.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Komodo_Outings.exe.config
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\obj\Debug\03_Komodo_Outings_Tests.csproj.CopyComplete
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\obj\Debug\03_Komodo_claims_Tests.dll
+C:\Users\sarah\source\repos\GoldBadgeChallenges\03_Komodo_claims_Tests\obj\Debug\03_Komodo_claims_Tests.pdb

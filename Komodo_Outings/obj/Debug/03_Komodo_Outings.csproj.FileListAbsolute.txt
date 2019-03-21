@@ -1,0 +1,7 @@
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\bin\Debug\Komodo_Outings.exe.config
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\bin\Debug\Komodo_Outings.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\bin\Debug\Komodo_Outings.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\obj\Debug\03_Komodo_Outings.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\obj\Debug\03_Komodo_Outings.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\obj\Debug\Komodo_Outings.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\Komodo_Outings\obj\Debug\Komodo_Outings.pdb

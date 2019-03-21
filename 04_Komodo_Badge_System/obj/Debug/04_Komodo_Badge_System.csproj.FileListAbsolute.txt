@@ -1,0 +1,7 @@
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\obj\Debug\04_Komodo_Badge_System.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\obj\Debug\04_Komodo_Badge_System.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\bin\Debug\04_Komodo_Badge_System.exe.config
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\bin\Debug\04_Komodo_Badge_System.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\bin\Debug\04_Komodo_Badge_System.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\obj\Debug\04_Komodo_Badge_System.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\04_Komodo_Badge_System\obj\Debug\04_Komodo_Badge_System.pdb

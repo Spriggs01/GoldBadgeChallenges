@@ -1,0 +1,7 @@
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\obj\Debug\01_Challenges.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\obj\Debug\01_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\bin\Debug\01_Challenges.exe.config
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\bin\Debug\01_Challenges.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\bin\Debug\01_Challenges.pdb
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\obj\Debug\01_Challenges.exe
+C:\Users\sarah\source\repos\GoldBadgeChallenges\01_Challenges\obj\Debug\01_Challenges.pdb

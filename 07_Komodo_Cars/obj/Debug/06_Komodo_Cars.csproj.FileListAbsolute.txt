@@ -1,0 +1,2 @@
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\obj\Debug\06_Komodo_Cars.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GoldBadgeChallenges\07_Komodo_Cars\obj\Debug\06_Komodo_Cars.csproj.CoreCompileInputs.cache
