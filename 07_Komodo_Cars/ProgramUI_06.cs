@@ -42,6 +42,9 @@ namespace _07_Komodo_Cars
                         break;
                     case 4:
                         SeeAll(gas, "Gas");
+                        SeeAll(electric, "Electric");
+                        SeeAll(hybrid, "hybrid");
+                        Console.ReadLine();
                         break;
                 }
 
@@ -59,8 +62,6 @@ namespace _07_Komodo_Cars
             string InputAsString = Console.ReadLine();
             int carType = int.Parse(InputAsString);
 
-
-
             switch (carType)
             {
                 case 1:
@@ -72,8 +73,6 @@ namespace _07_Komodo_Cars
                 case 3:
                     car.TypeOfFuel = FuelType.Hybrid;
                     break;
-
-
             }
 
             Console.WriteLine("What model is the car?");
@@ -105,13 +104,13 @@ namespace _07_Komodo_Cars
         {
             Console.WriteLine("Listing of the {0} cars", listTypeDisplay);
             int i = 1;
-            foreach(Car_Comparisons car in carList)
+            foreach (Car_Comparisons car in carList)
             {
                 // display each car
-                Console.WriteLine( "{0}: Year: {1}, Model: {2}, Color {3}", i, car.Year, car.CarType, car.Color );
+                Console.WriteLine("{0}: Year: {1}, Model: {2}, Color {3}", i, car.Year, car.CarType, car.Color);
                 i++;
             }
-            Console.ReadLine();
+            
         }
 
         private void UpdateInformation()
@@ -123,31 +122,68 @@ namespace _07_Komodo_Cars
 
             string update = Console.ReadLine();
             int updateInformation = int.Parse(update);
-            
+            List<Car_Comparisons> selectedList = gas;
+
 
             switch (updateInformation)
             {
                 case 1:
                     SeeAll(gas, "gas");
-                   
+                    selectedList = gas;
                     break;
                 case 2:
                     SeeAll(electric, "electric");
-                    
-                    break; 
+                    selectedList = electric;
+                    break;
                 case 3:
                     SeeAll(hybrid, "hybrid");
-                   
+                    selectedList = hybrid;
                     break;
             }
 
             Console.WriteLine("Which car do you want to update?");
             string carToUpdate = Console.ReadLine();
-            int updateCar = int.Parse(carToUpdate);
+            int updateCar = int.Parse(carToUpdate) - 1;
 
+            Car_Comparisons car = selectedList.ElementAt(updateCar);
 
-           
-            
+            Console.WriteLine("Do you want to update the Car Type?\n" +
+                "Yes\n" +
+                "OR\n" +
+                "No?");
+            string updateCarType = Console.ReadLine();
+            if (updateCarType == "Y")
+            {
+                Console.WriteLine("Enter car type");
+                string updatedType = Console.ReadLine();
+                car.CarType = updatedType;
+
+            }
+
+            Console.WriteLine("Do you want to update the Car Year?\n" +
+                "Yes\n" +
+                "OR\n" +
+                "No.?");
+            string updateCarYear = Console.ReadLine();
+            if (updateCarYear == "Y")
+            {
+                Console.WriteLine("Enter Car Year");
+                string updateYear = Console.ReadLine();
+                car.Year = int.Parse(updateYear);
+            }
+
+            Console.WriteLine("Do you want to update the Car Color?\n" +
+                "Yes\n" +
+                "OR\n" +
+                "No?");
+            string updateCarColor = Console.ReadLine();
+            if (updateCarColor == "Y")
+            {
+                Console.WriteLine("Enter Car Color");
+                string updatedColor = Console.ReadLine();
+                car.Color = updatedColor;
+
+            }
         }
 
         private void RemoveCarFromList()
